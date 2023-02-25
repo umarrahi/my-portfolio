@@ -306,7 +306,7 @@ border: 1px solid var(--dark);
 #submit-btn {
     background: var(--dark);
     color: var(--light-white);
-    width: 40%;
+    width: 100%;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
 }
 
